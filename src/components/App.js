@@ -1,5 +1,5 @@
-import React, {useEffect, useState} from 'react'
-import '../styles/App.css';
+import React, { useEffect, useState } from "react";
+import "../styles/App.css";
 
 const App = () => {
   //code here
@@ -32,7 +32,5 @@ const App = () => {
     </div>
   );
 };
-
-
 
 export default App;
